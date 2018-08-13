@@ -1,1 +1,1 @@
-# Fun-es-em-C.
+# Funções em C.
